@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Hưng Đẹp Trai
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://scontent.fdad1-1.fna.fbcdn.net/v/t1.0-9/s960x960/72999003_1442591799229955_5017673273870123008_o.jpg?_nc_cat=103&_nc_ohc=17XPRY8iWRUAQmnYQjHp4nhsAzsitIkYJ4seLkgV_5D5sG8FExiDTeEXg&_nc_ht=scontent.fdad1-1.fna&oh=c382b23a47cc986a101bd7d15a5cbb6d&oe=5E80D466
 
 #
 # Flags below are optional
@@ -19,9 +19,9 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: https://www.facebook.com/hung.dtrai97
   flickr:
-  github: barryclark/jekyll-now
+  github: tranhung04897/tranhung04897.github.io
   instagram:
   linkedin:
   pinterest:
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "/tranhung04897.github.io"
 
 #
 # !! You don't need to change any of the configuration flags below !!
